@@ -5,7 +5,7 @@ This project implements a machine learning model to detect fake news using Pytho
 
 TfidfVectorizer: Transforms textual data into numerical features based on word frequency and importance.
 PassiveAggressiveClassifier: A linear classifier suitable for large datasets and online learning.
-Accuracy of 92.82%: Demonstrates the effectiveness of the model in identifying fake news.
+Accuracy of 92.74%: Demonstrates the effectiveness of the model in identifying fake news.
 
 **Potential Applications:**
 
